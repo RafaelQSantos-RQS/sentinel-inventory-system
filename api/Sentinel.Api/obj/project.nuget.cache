@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OzUzGwziY0=",
+  "success": true,
+  "projectFilePath": "/home/rafael_qsantos/Github/sentinel-inventory-system/api/Sentinel.Api/Sentinel.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/rafael_qsantos/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/rafael_qsantos/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
