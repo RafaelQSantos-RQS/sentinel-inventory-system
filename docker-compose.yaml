@@ -1,0 +1,7 @@
+services:
+  sentinel-api:
+    build:
+      context: ./api/Sentinel.Api
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
