@@ -1,0 +1,56 @@
+# ============================
+# Build / bin / obj
+# ============================
+bin/
+obj/
+out/
+
+# ============================
+# VSCode
+# ============================
+.vscode/
+
+# ============================
+# User-specific
+# ============================
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.pidb
+*.booproj
+
+# ============================
+# Logs
+# ============================
+*.log
+*.vspscc
+
+# ============================
+# NuGet
+# ============================
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+# Auto restore
+.project.lock.json
+artifacts/
+
+# ============================
+# Rider / JetBrains IDEs
+# ============================
+.idea/
+
+# ============================
+# OS / Linux
+# ============================
+*~
+*.swp
+.DS_Store
+
+# ============================
+# Entity Framework / Migrations
+# ============================
+Migrations/*.Designer.cs
+Migrations/*.Snapshot.cs
